@@ -9,13 +9,13 @@ We strongly recommend the use of a kanban.
 
 You will push on your Git repository:
 
-    - the code
-    - a screenshot of your kanban
-    - your unit tests 
+    * the code
+    * a screenshot of your kanban
+    * your unit tests 
 
 ## Features 
 
-    - all the features are listed in the technical documentation ([see here](https://github.com/Matrice-io/MERN-Escape-Game/blob/main/Document_technique.png))
+    * all the features are listed in the technical documentation ([see here](https://github.com/Matrice-io/MERN-Escape-Game/blob/main/Document_technique.png))
   
 ## BONUS (advanced features)
 
