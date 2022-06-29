@@ -15,7 +15,7 @@ You will push on your Git repository:
 
 ## Features 
 
-    * all the features are listed in the technical documentation ([see here](https://github.com/Matrice-io/MERN-Escape-Game/blob/main/Document_technique.png))
+    All the features are listed in the technical documentation ([see here](https://github.com/Matrice-io/MERN-Escape-Game/blob/main/Document_technique.png))
   
 ## BONUS (advanced features)
 
