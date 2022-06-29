@@ -4,14 +4,13 @@ In this project, you will implement a booking platform for escape game. What is 
 
 The client give you the technical documentation and a list of tickets below.
 
-You have only 3 days so the client's request is too ambitious, so you will have to use agility to do the maximum without wasting time.
+You have only 7 half days so the client's request is too ambitious, so you will have to use agility to do the maximum without wasting time.
 We strongly recommend the use of a kanban.
 
 You will push on your Git repository:
 
     - the code
-    - the updated documentation (any change you make to the codebase must be reflected in the documentation)
-    - your unit tests
+    - your unit tests 
 
 
 ## Features 
