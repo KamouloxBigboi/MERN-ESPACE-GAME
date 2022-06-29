@@ -1,4 +1,4 @@
-# MERN-Escape-Game
+# 🪜MERN-Escape-Game
 
 In this project, you will implement a booking platform for escape game. What is an escape game ? [See this](https://fr.wikipedia.org/wiki/Jeu_d%27%C3%A9vasion)
 
