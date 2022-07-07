@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          The Extreme Pirate Island Espace Game
+          The Pirates' Island Escape Game
         </p>
         <a
           className="App-link"
